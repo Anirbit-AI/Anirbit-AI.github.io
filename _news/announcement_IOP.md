@@ -7,7 +7,7 @@ related_posts: false
 
 <b>IOP-MLST!</b>
 
-[Blowup](https://iopscience.iop.org/article/10.1088/2632-2153/ad51cd)
+[Investigating the Ability of PINNs to Solve Burgers' PDE Near Finite-Time Blow Up](https://iopscience.iop.org/article/10.1088/2632-2153/ad51cd)
 
 What is the relationship between an ML model's error in approximating the PDE solution and the risk of its PINN loss function? Recall 
 that it's only the latter that the codes try to minimize. This is in general quite unclear - and in this latest work with my amazing 
