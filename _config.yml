@@ -64,13 +64,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: procheta
+github_username: Anirbit-AI
 gitlab_username: # your GitLab user name
-x_username: prochetasen
+x_username: 
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: procheta-sen-94086898
+linkedin_username: anirbit-mukherjee
 telegram_username: # your Telegram user name
-scholar_userid: hRKyQdoAAAAJ # your Google Scholar ID
+scholar_userid: V32KjH0AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
