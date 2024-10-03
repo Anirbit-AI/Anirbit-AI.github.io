@@ -24,6 +24,4 @@ IMHO, doing a Ph.D. is an extremely important decision in life and it can have s
 > 
 > (c) Have top grades in any one of the topics, like PDE theory/advanced analysis/mathematical statistics/differential geometry/probability theory/Fourier analysis
 > 
->>  and have some familiarity with the lectures [here](https://youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm&feature=shared).
->> 
->>  The lectures above are from a group in ETH Zurich with whom we have a close relationship. 
+>>  and have some familiarity with the lectures [here](https://youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm&feature=shared). The lectures above are from a group in ETH Zurich with whom we have a close relationship. 
