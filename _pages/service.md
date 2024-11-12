@@ -6,7 +6,10 @@ description:
 nav: true
 nav_order: 8
 ---
-I am an Editorial Board Member for the journal ACM Transactions on Probabilistic ML.
+I am, 
+  - Editorial Board Member for the journal ACM Transactions on Probabilistic ML.
+  - Area Chair of Northern Lights Deep-Learning Conference (NLDL 2025)
+  - on the regular reviewing panel of the Transactions of Machine Learning Research (TMLR)
 
 I was an Associate Editor of Neurocomputing from 2021-2024.
 
