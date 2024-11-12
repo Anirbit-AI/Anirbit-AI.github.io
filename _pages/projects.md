@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
+title: Focus Projects
 permalink: /projects/
 description: Ideas We Are Excited About!
 nav: true
-nav_order: 3
+nav_order: 5
 display_categories: [AI-for-Science, Theory of Neural Training]
 horizontal: false
 ---
