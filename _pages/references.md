@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /references/
-title: Path To Deep-Learning
+title: References
 description: 
 nav: true
 nav_order: 6 
