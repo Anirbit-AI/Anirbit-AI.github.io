@@ -24,9 +24,6 @@ See Lecture Videos on Our Works @ [On YouTube](https://youtube.com/playlist?list
 
 If you have a strong background in mathematics or statistics or theoretical physics or E.C.E. then feel free to email me about Ph.D. positions with me at our department. Potential candidates for starting in September 2025, could go up for the "[Dean's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/deans-doctoral-scholarship/)" or the "[President's Doctoral Scholarship](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/presidents-doctoral-scholarship/)". Look at the "Apply" tab above for more details! 
 
-%or our "[CDT Fellowship](https://www.ai-decisions-cdt.ac.uk/)". 
-
-
 
 > Our UKRI AI Center for Doctoral Training (CDT) is Now Live! Its theme is titled "Decision-Making in Complex Systems"
   These projects would be running for years to come!
