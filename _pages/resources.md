@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /references/
-title: References
+permalink: /resources/
+title: Resources
 description: 
 nav: true
 nav_order: 6 
