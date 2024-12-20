@@ -28,4 +28,4 @@ I am also a member of the ELLIS Society and  The Centre for A.I. Fundamentals.
 
 > Our UKRI AI Center for Doctoral Training (CDT) is Now Live! Its theme is titled "Decision-Making in Complex Systems"
   These projects would be running for years to come!
-  This is a joint venture with the University of Cambridge. I am a co-PI on this grant and the Director of Admissions.
+  This is a joint venture with the University of Cambridge. I am a co-PI on this grant.
