@@ -16,7 +16,12 @@ nav_order: 5
   </div>
 </div>
 
-
+<div>
+ <p>  </p>
+</div>
+<div>
+ <p>  </p>
+</div>
 <!-- _pages/publications.md -->
 <div style="display:flex;align-items;center; gap: 20px;">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:150px; height:auto;border-radius: 45%; object-fit: cover;"/>
@@ -26,7 +31,7 @@ nav_order: 5
   </div>
 </div>
 <div>
- <p> </br> </p>
+ <p>  </p>
 </div>
 
 <!-- _pages/publications.md -->
