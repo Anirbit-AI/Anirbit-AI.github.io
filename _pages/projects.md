@@ -26,7 +26,7 @@ nav_order: 5
 </div>
 <!-- _pages/publications.md -->
 <div style="display:flex;align-items;center; gap: 20px;">
-<img src="/assets/img/finalized.png" alt="Publications Banner" style="width:200px; height:200px;border-radius: 45%; object-fit: cover;"/>
+<img src="/assets/img/finalized.png" alt="Publications Banner" style="border-radius: 45%; object-fit: cover;"/>
  <div>
   <h3> Mathematical Foundations of Scientific-ML</h3>
      <p style="margin-top: 5px;">, </p>
