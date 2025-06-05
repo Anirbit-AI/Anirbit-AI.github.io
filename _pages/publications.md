@@ -4,6 +4,7 @@ permalink: /publications/
 title: Publications
 description:  
 nav: true
+img : assets/img/finalzied.png
 nav_order: 2
 ---
 
