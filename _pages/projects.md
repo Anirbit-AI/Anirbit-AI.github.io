@@ -21,15 +21,19 @@ nav_order: 5
 <div style="display:flex;align-items;center; gap: 20px;">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:150px; height:auto;border-radius: 45%; object-fit: cover;"/>
  <div>
+  <h3> AI for Scienc</h3>
      <p style="margin-top: 5px;"> AI for Science</p>
   </div>
 </div>
-
+<div>
+ <p> </br> </p>
+</div>
 
 <!-- _pages/publications.md -->
 <div style="display:flex;align-items;center; gap: 20px;">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:150px; height:auto;border-radius: 45%; object-fit: cover;"/>
  <div>
+   <h3>Theory of Neural</h3>
      <p style="margin-top: 5px;"> Theory of Neural</p>
   </div>
 </div>
