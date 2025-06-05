@@ -14,7 +14,8 @@ nav_order: 5
  <div>
      <p style="margin-top: 5px;"> 
      Partial differential equations (PDEs) are the ubiquitous way to model various natural dynamics such as fluid flow or evolution of the quantum state of a molecule. Various sciences have a critical dependency on having fast and reliable numerical solvers for PDEs. However classical methods of simulating PDEs can be very expensive for very many instances of practical relevance. Hence large parts of the industry are trying to implement methods from Scientific-ML for these tasks. 
-      
+      </p> 
+     <p style="margin-top: 5px;">
    In our group we seek to explore the foundational challenges of Scientific-ML via the lens of mathematics - and push the frontiers of both. We aim to prove (a) architecture requirements for neural PDE solving and (b) performance guarantees and (c) uncertainty quantification for (stochastic) first-order algorithms that can be deployed to train neural operators and nets for solving target PDEs and dynamical systems, in arbitrary dimensions.
      </p>
   </div>
