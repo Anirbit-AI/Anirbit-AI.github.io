@@ -28,8 +28,8 @@ nav_order: 5
 <div style="display:flex;align-items;center; gap: 20px;">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:200px; height:200px;border-radius: 45%; object-fit: cover;"/>
  <div>
-  <h3> AI for Scienc</h3>
-     <p style="margin-top: 5px;">, Mathematical Foundations of Scienctific-ML</p>
+  <h3> Mathematical Foundations of Scienctific-ML</h3>
+     <p style="margin-top: 5px;">, </p>
   </div>
 </div>
 <div>
@@ -40,8 +40,8 @@ nav_order: 5
 <div style="display:flex;align-items;center; gap: 20px;">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:200px; height:200px:auto;border-radius: 45%; object-fit: cover;"/>
  <div>
-   <h3>Theory of Neural</h3>
-     <p style="margin-top: 5px;"> Provable Neural Training Algorithms</p>
+   <h3>  Provable Neural Training Algorithms </h3>
+     <p style="margin-top: 5px;"> </p>
   </div>
 </div>
 
