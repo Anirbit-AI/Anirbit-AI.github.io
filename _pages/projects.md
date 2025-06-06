@@ -24,7 +24,7 @@ nav_order: 5
 
 <!-- _pages/publications.md -->
 <div class="responsive-container">
-<img src="/assets/img/finalized.png" alt="Publications Banner" style="width:175px; height:175px;"/>
+<img src="/assets/img/finalized-2.png" alt="Publications Banner" style="width:175px; height:175px;"/>
  <div>
      <p style="margin-top: 5px;"> 
      Partial differential equations (PDEs) are the ubiquitous way to model various natural dynamics such as fluid flow or evolution of the quantum state of a molecule. Various sciences have a critical dependency on having fast and reliable numerical solvers for PDEs. However classical methods of simulating PDEs can be very expensive for very many instances of practical relevance. Hence large parts of the industry are trying to implement methods from Scientific-ML for these tasks. 
