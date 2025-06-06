@@ -7,9 +7,23 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+  .responsive-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-container {
+      flex-direction: column;
+      align-items: flex-start; /* optional, aligns text to the left */
+    }
+  }
+</style>
 
 <!-- _pages/publications.md -->
-<div style="display:flex;align-items;center; gap: 20px;">
+<div class="responsive-container">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:175px; height:175px;"/>
  <div>
      <p style="margin-top: 5px;"> 
