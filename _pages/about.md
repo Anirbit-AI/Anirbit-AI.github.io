@@ -15,8 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer (Assistant Professor) in Computer Science at The University of Manchester. 
-I am also a member of the ELLIS Society and  The Centre for A.I. Fundamentals. 
+I am a Lecturer (Assistant Professor) in Computer Science at The University of Manchester. Our group specializes in the theory of deep-learning and scientific-ML/AI-for-Science. I am also a member of the London Mathematical Society, ELLIS Society and  The Centre for A.I. Fundamentals. 
 
 
 &nbsp; &nbsp; • Mail Me @ anirbit.mukherjee@manchester.ac.uk 
