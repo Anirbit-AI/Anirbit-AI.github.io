@@ -11,12 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: 
-    content: about_Zhilu.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
-  - align: right
-    image: 
-    content: about_intern.md
+    content: about_people.md
     image_circular: false # crops the image to make it circular
     more_info: 
 ---
