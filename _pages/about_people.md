@@ -1,9 +1,9 @@
 
 PhD. Students
 ===============
-* Sebastien Andre-Sloan (2024 - ) - co-advised with Prof. Alex Frangi
-* Dibyakanti Kuma (2024 - ) - co-advised with Prof. Alex Frangi (and Dr. Mattthew Colbrook @ Cambridge)
-* Hongbo Zhu - co-advised with Prof. Angelo Cangelosi
+* [Sebastien Andre-Sloan](https://research.manchester.ac.uk/en/persons/sebastien-andre-sloan) (2024 - ) - co-advised with Prof. [Alex Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi) (and Dr. [Mattthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/home.html) @ Cambridge)
+* [Dibyakanti Kumar](https://dibyakanti.github.io/) (2024 - ) - co-advised with Prof. [Alex Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi) 
+* Hongbo Zhu - co-advised with Prof. [Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi)
 
 
 Minorly Advised PhD Students
@@ -12,8 +12,8 @@ Minorly Advised PhD Students
 
 
 
-Student Collaborators
+Past Student Collaborators
 ===============
 * Samyak Jha
-* Pulkit Gopalani
-* Amartya Roy
+* [Pulkit Gopalani](https://pulkitgopalani.github.io)
+* [Amartya Roy](https://scholar.google.com/citations?user=bhkDgLMAAAAJ&hl=en)
