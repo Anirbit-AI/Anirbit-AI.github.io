@@ -48,15 +48,15 @@ nav_order: 5
   <h3> Mathematical Foundations of Scientific-ML</h3>
      <p style="margin-top: 5px;">
        <br>
-     - We gave the first-ever proof of model size requirements for operator training,
+     We gave the first-ever proof of,
        <br>
-   [Size Lowerbounds for Deep Operator Networks
-(TMLR 2024)](https://openreview.net/pdf?id=RwmWODTNFE)
+     &nbsp &nbsp - model size requirements for operator training,
        <br>
-      - We gave the first-ever proof of sample size requirements for operator learning,
+   [Size Lowerbounds for Deep Operator Networks (TMLR 2024)](https://openreview.net/pdf?id=RwmWODTNFE)
        <br>
-   [Towards Size-Independent Generalization Bounds for Deep
-Operator Nets (TMLR 2024)](https://openreview.net/pdf?id=21kO0u6LN0)   
+      &nbsp &nbsp - sample size requirements for operator learning,
+       <br>
+   [Towards Size-Independent Generalization Bounds for Deep Operator Nets (TMLR 2024)](https://openreview.net/pdf?id=21kO0u6LN0)   
      </p>
   </div>
 </div>
