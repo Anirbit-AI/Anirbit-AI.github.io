@@ -50,11 +50,11 @@ nav_order: 5
        <br>
      We gave the first-ever proof of,
        <br>
-     &nbsp &nbsp • model size requirements for operator training,
+     &nbsp; &nbsp; • model size requirements for operator training,
        <br>
    [Size Lowerbounds for Deep Operator Networks (TMLR 2024)](https://openreview.net/pdf?id=RwmWODTNFE)
        <br>
-      &nbsp &nbsp • sample size requirements for operator learning,
+      &nbsp; &nbsp; • sample size requirements for operator learning,
        <br>
    [Towards Size-Independent Generalization Bounds for Deep Operator Nets (TMLR 2024)](https://openreview.net/pdf?id=21kO0u6LN0)   
      </p>
