@@ -51,24 +51,26 @@ nav_order: 5
        <br>
      We gave the first-ever proof of,
        <br>
-     &nbsp; &nbsp; • model size requirements for operator training,
+      &nbsp; &nbsp; • <b> model size requirements for operator training : </b> "Size Lowerbounds for Deep Operator Networks" <a href="https://openreview.net/pdf?id=RwmWODTNFE"> Mukherjee et. al. (TMLR 2024)</a>
        <br>
-   [Size Lowerbounds for Deep Operator Networks (TMLR 2024)](https://openreview.net/pdf?id=RwmWODTNFE)
-       <br>
-      &nbsp; &nbsp; • sample size requirements for operator learning : "Towards Size-Independent Generalization Bounds for Deep Operator" <a href="https://openreview.net/pdf?id=21kO0u6LN0"> Gopalani et al. (TMLR 2024)</a>
+      &nbsp; &nbsp; • <b> sample size requirements for operator learning : </b> "Towards Size-Independent Generalization Bounds for Deep Operator" <a href="https://openreview.net/pdf?id=21kO0u6LN0"> Gopalani et al. (TMLR 2024)</a>
    </p>
   </div>
 </div>
+
 <div>
  <p>  </p>
 </div>
 
 <!-- _pages/publications.md -->
+<div  class="responsive-container">
 <div style="display:flex;align-items;center; gap: 20px;">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:175px; height:175px;"/>
  <div>
    <h3>  Provable Neural Training Algorithms </h3>
-     <p style="margin-top: 5px;"> </p>
-  </div>
+     <p style="margin-top: 5px;"> 
+     </p>
+ </div>
+</div>
 </div>
 
