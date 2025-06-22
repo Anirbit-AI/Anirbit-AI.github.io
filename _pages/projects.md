@@ -42,7 +42,7 @@ nav_order: 5
  <p>  </p>
 </div>
 <!-- _pages/publications.md -->
-<div style="display:flex;align-items;center; gap: 20px;">
+<div  class="responsive-container"; style="display:flex;align-items;center; gap: 20px;">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:175px; height:175px;"/>
  <div>
   <h3> Mathematical Foundations of Scientific-ML</h3>
