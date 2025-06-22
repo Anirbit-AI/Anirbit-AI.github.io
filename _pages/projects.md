@@ -54,7 +54,7 @@ nav_order: 5
        <br>
    [Size Lowerbounds for Deep Operator Networks (TMLR 2024)](https://openreview.net/pdf?id=RwmWODTNFE)
        <br>
-      &nbsp; &nbsp; • sample size requirements for operator learning, Towards Size-Independent Generalization Bounds for Deep Operator <a href="https://openreview.net/pdf?id=21kO0u6LN0"> Anirbit et al. (TMLR 2024)</a>
+      &nbsp; &nbsp; • sample size requirements for operator learning : "Towards Size-Independent Generalization Bounds for Deep Operator" <a href="https://openreview.net/pdf?id=21kO0u6LN0"> Gopalani et al. (TMLR 2024)</a>
    </p>
   </div>
 </div>
