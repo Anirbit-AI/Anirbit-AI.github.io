@@ -56,8 +56,8 @@ nav_order: 5
        <br>
       &nbsp; &nbsp; • sample size requirements for operator learning,
        <br>
-   [Towards Size-Independent Generalization Bounds for Deep Operator Nets (TMLR 2024)](https://openreview.net/pdf?id=21kO0u6LN0)   
-     </p>
+       <a href="https://openreview.net/pdf?id=21kO0u6LN0">Towards Size-Independent Generalization Bounds for Deep Operator (TMLR 2024)</a>
+   </p>
   </div>
 </div>
 <div>
