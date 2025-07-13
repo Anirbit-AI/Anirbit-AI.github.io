@@ -51,7 +51,7 @@ nav_order: 5
        <br>
      We gave the first-ever proof of,
        <br> <br>
-       &nbsp; &nbsp; • <b> size lowerbounds for training PINNs with noisy data : </b> "Noisy PDE Training Requires Bigger PINNs", <a href="https://arxiv.org/abs/2507.06967"> Sebastien Andre-Sloan and Anirbit Mukherjee and Matthew Colbrook (arXiv 2025)</a>
+       &nbsp; &nbsp; • <b> size lowerbounds for training PINNs with noisy data : </b> "Noisy PDE Training Requires Bigger PINNs", <a href="https://arxiv.org/abs/2507.06967"> Andre-Sloan et. al. (arXiv 2025)</a>
        <br> 
        &nbsp; &nbsp; • <b> true error bounds on PINNs solving PDEs with finite-time blow-up : </b> "Investigating the ability of PINNs to solve Burgers’ PDE near finite-time blowup", <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad51cd"> Dibyakanti Kumar and Anirbit Mukherjee (IOP-MLST 2024)</a>
       <br> 
