@@ -46,14 +46,22 @@ nav_order: 5
 <div  class="responsive-container">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:175px; height:175px;"/>
  <div>
-  <h3> Mathematical Foundations of Scientific-ML</h3>
+  <h3> Mathematical Foundations of Scientific-ML (5 Works So Far.)</h3>
      <p style="margin-top: 5px;">
        <br>
      We gave the first-ever proof of,
-       <br> <br> 
-      &nbsp; &nbsp; • <b> model size requirements for operator training : </b> "Size Lowerbounds for Deep Operator Networks", <a href="https://openreview.net/pdf?id=RwmWODTNFE"> Mukherjee et. al. (TMLR 2024)</a>
-       <br>
+       <br> <br>
+       &nbsp; &nbsp; • <b> size lowerbounds for training PINNs with noisy data : </b> "Noisy PDE Training Requires Bigger PINNs", <a href="https://arxiv.org/abs/2507.06967"> Sebastien Andre-Sloan and Anirbit Mukherjee and Matthew Colbrook (arXiv 2025)</a>
+       <br> 
+       &nbsp; &nbsp; • <b> true error bounds on PINNs solving PDEs with finite-time blow-up : </b> "Investigating the ability of PINNs to solve Burgers’ PDE near finite-time blowup", <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad51cd"> Dibyakanti Kumar and Anirbit Mukherjee (IOP-MLST 2024)</a>
+      <br> 
       &nbsp; &nbsp; • <b> sample size requirements for operator learning : </b> "Towards Size-Independent Generalization Bounds for Deep Operator", <a href="https://openreview.net/pdf?id=21kO0u6LN0"> Gopalani et al. (TMLR 2024)</a>
+      <br> 
+      &nbsp; &nbsp; • <b> model size requirements for operator training : </b> "Size Lowerbounds for Deep Operator Networks", <a href="https://openreview.net/pdf?id=RwmWODTNFE"> Mukherjee et. al. (TMLR 2024)</a>
+       <br> <br> 
+      In the realm of empirical studies in Sci-ML,
+      <br> <br>
+       &nbsp; &nbsp; • <b> we gave one of the most extensive studies on how the PINN loss can be modified to exactly implement either boundary or initial conditions and their relative tradeoffs : </b> "Improving PINNs By Algebraic Inclusion of Boundary and Initial Conditions", <a href="https://arxiv.org/abs/2407.20741"> Ren et al. (arXiv 2024)</a>
    </p>
   </div>
 </div>
