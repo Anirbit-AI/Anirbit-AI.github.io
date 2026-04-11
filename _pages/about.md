@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 I am a Lecturer (Assistant Professor) in Computer Science at The University of Manchester. Our group specializes in the theory of deep-learning and scientific-ML/AI-for-Science. I am also a member of the [London Mathematical Society](https://www.lms.ac.uk), [ELLIS Society](https://ellis.eu) and  [The Centre for A.I. Fundamentals](https://www.ai-fun.manchester.ac.uk). 
 
 
-&nbsp; &nbsp; • Mail Me @ anirbit.mukherjee@manchester.ac.uk 
+&nbsp; &nbsp; • Mail Me @ anirbit.mukherjee@manchester.ac.uk  [Apply](apply.md)
     
 &nbsp; &nbsp; • See Lecture Videos on Our Works @ [On YouTube](https://youtube.com/playlist?list=PLm3bVOi7aD4yAvkiJ8k6fuWvJyGDZMu3e&feature=shared)
     
