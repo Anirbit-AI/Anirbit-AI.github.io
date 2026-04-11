@@ -13,14 +13,10 @@ PhD. Students
 
 Graduated PhD. Students
 ===============
-* Hongbo Zhu
+* [Hongbo Zhu](https://scholar.google.com/citations?user=38aTVIcAAAAJ&hl=en)
   <br>
-  - co-advised with Prof. [Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi)
+  - minorly advised with the main adviser Prof. [Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi)
 
-
-Minorly Advised PhD Students
-==============
-* Fuxi Xi - co-advised with Prof. Robert Stevens and Prof. Goran Nenadic
 
 Current Undergrad Collaborators
 ===============
