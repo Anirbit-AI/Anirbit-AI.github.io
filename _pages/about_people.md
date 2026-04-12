@@ -3,7 +3,7 @@ PhD. Students
 ===============
 * [Yingxiao Huo](https://scholar.google.com/citations?user=Mqjy1pAAAAAJ&hl=zh-CN) (2025 -)
   <br>
-  - co-advised with [Mingfei Sun](https://research.manchester.ac.uk/en/persons/mingfei-sun)
+  - co-advised with Dr. [Mingfei Sun](https://research.manchester.ac.uk/en/persons/mingfei-sun)
 * [Sebastien Andre-Sloan](https://research.manchester.ac.uk/en/persons/sebastien-andre-sloan) (2024 - )
   <br>
   - co-advised with Prof. [Alex Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi) (and Dr. [Mattthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/home.html) @ Cambridge)
@@ -18,7 +18,7 @@ Graduated PhD. Students
   - minorly advised with the main adviser Prof. [Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi)
 
 
-Current Undergrad Collaborators*
+Current Undergrad Collaborators ★
 ===============
 * Zhengkai Sun (University of Manchester)
 * Misbah Us Zaman (IISER Kolkata)
@@ -27,7 +27,7 @@ Current Undergrad Collaborators*
 * Muhammad Hamza (IIT Kharagpur)
 * Aditya Patra 
 
-Past Undergrad Collaborators*
+Past Undergrad Collaborators ★
 ===============
 * Samyak Jha (IIT Bombay)
 * [Matteo Tucat](https://www.linkedin.com/in/matteo-tucat/) (University of Manchester)
@@ -37,4 +37,5 @@ Past Undergrad Collaborators*
 * [Zhihao Fang](https://www.linkedin.com/in/zhihao-fang-278938224/) (University of Manchester)
 * Keren Li (University of Manchester)
 
-* These lists only mention those students who have written/submitted/writing papers with me while they were an undergrad. 
+
+ ★ These lists only mention those students who have written/submitted/writing papers with me while they were an undergrad. 
