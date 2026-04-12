@@ -46,11 +46,13 @@ nav_order: 5
 <div  class="responsive-container">
 <img src="/assets/img/finalized.png" alt="Publications Banner" style="width:175px; height:175px;"/>
  <div>
-  <h3> Mathematical Foundations of Scientific-ML (5 Works So Far.)</h3>
+  <h3> Mathematical Foundations of Scientific-ML (6 Works So Far.)</h3>
      <p style="margin-top: 5px;">
        <br>
      We gave the first-ever proof of,
-       <br> <br>
+       <br><br>
+       &nbsp; &nbsp; • <b> dimension-free sample complexity bounds for solving Navier-Stokes PDE using PINNs : </b> "Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations",<a href="https://arxiv.org/abs/2603.23072"> Andre-Sloan et. al. (arXiv 2026)</a>
+       <br>
        &nbsp; &nbsp; • <b> size lowerbounds for training PINNs with noisy data : </b> "Noisy PDE Training Requires Bigger PINNs", <a href="https://arxiv.org/abs/2507.06967"> Andre-Sloan et. al. (arXiv 2025)</a>
        <br> 
        &nbsp; &nbsp; • <b> true error bounds on PINNs solving PDEs with finite-time blow-up : </b> "Investigating the ability of PINNs to solve Burgers’ PDE near finite-time blowup", <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ad51cd"> Dibyakanti Kumar and Anirbit Mukherjee (IOP-MLST 2024)</a>
@@ -79,14 +81,12 @@ nav_order: 5
      <p style="margin-top: 5px;"> 
        <a href="https://anirbit-ai.github.io/assets/pdf/neural_net_training_summaries_Anirbit.pdf" target="_blank">
     View/Download a PDF Summarizing our Results on Provable Neural Training
-     </p>
  </div>
 </div>
 </div>
 
 <br> <br> 
     Or view here, 
-<br> <br> 
 <br> <br> 
   <div style="margin-top: 20px;">
   <iframe 
