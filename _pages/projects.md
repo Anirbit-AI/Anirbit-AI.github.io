@@ -89,6 +89,8 @@ nav_order: 5
 </p>
 <br> <br> 
     Or view here, 
+<br> <br> 
+<br> <br> 
     <iframe 
       src="https://anirbit-ai.github.io/assets/pdf/neural_net_training_summaries_Anirbit.pdf" 
       width="100%" 
