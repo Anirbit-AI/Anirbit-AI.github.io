@@ -82,3 +82,16 @@ nav_order: 5
 </div>
 </div>
 
+<p>
+  <a href="https://anirbit-ai.github.io/assets/pdf/neural_net_training_summaries_Anirbit.pdf" target="_blank">
+    View or Download a PDF Summarizing our Results on Provable Neural Training 
+  </a>
+</p>
+<br> <br> 
+    Or view here, 
+    <iframe 
+      src="https://anirbit-ai.github.io/assets/pdf/neural_net_training_summaries_Anirbit.pdf" 
+      width="100%" 
+      height="600px">
+    </iframe>
+<br> <br>
