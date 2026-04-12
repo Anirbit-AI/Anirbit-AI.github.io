@@ -77,23 +77,23 @@ nav_order: 5
  <div>
    <h3>  Provable Neural Training Algorithms </h3>
      <p style="margin-top: 5px;"> 
+       <a href="https://anirbit-ai.github.io/assets/pdf/neural_net_training_summaries_Anirbit.pdf" target="_blank">
+    View/Download a PDF Summarizing our Results on Provable Neural Training
      </p>
  </div>
 </div>
 </div>
 
-<p>
-  <a href="https://anirbit-ai.github.io/assets/pdf/neural_net_training_summaries_Anirbit.pdf" target="_blank">
-    View or Download a PDF Summarizing our Results on Provable Neural Training 
-  </a>
-</p>
 <br> <br> 
     Or view here, 
 <br> <br> 
 <br> <br> 
-    <iframe 
-      src="https://anirbit-ai.github.io/assets/pdf/neural_net_training_summaries_Anirbit.pdf" 
-      width="100%" 
-      height="600px">
-    </iframe>
+  <div style="margin-top: 20px;">
+  <iframe 
+    src="/assets/pdf/neural_net_training_summaries_Anirbit.pdf"
+    width="100%" 
+    height="600px"
+    style="border: none;">
+  </iframe>
+  </div>
 <br> <br>
