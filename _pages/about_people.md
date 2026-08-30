@@ -1,4 +1,11 @@
-
+---
+layout: page
+permalink: /people/
+title: People
+description:
+nav: true
+nav_order: 3
+---
 PhD. Students
 ===============
 * [Yingxiao Huo](https://scholar.google.com/citations?user=Mqjy1pAAAAAJ&hl=zh-CN) (2025 -)
