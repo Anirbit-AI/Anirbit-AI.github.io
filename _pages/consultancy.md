@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /consultancy/
-title: Scientific-AI Consultancy
+title: SciML Consultancy
 description: We Can Help Your Industry Use Scientific-AI!
 nav: true
 nav_order: 7
