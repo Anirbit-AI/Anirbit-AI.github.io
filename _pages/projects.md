@@ -4,7 +4,7 @@ title: Focus Projects
 permalink: /projects/
 description: Ideas We Are Excited About!
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 <style>
