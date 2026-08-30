@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /consultancy/
-title: Consultancy
+title: Scientific-AI Consultancy
 description: We Can Help Your Industry Use Scientific-AI!
 nav: true
 nav_order: 7
