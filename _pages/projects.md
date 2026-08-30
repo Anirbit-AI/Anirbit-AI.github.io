@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Focus Projects
+title: Projects
 permalink: /projects/
 description: Ideas We Are Excited About!
 nav: true
