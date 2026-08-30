@@ -12,7 +12,7 @@ This above model beats a lot of other published models on this particularly hard
 >**Contact us if you want insights on how to scale this up to your usecase!**
 
 <figure>
-    <img src="/assets/img/finalized-2.png"
+    <img src="/assets/img/finalized-2.png" width="100" height="100"
          alt="Sample">
     <figcaption>Sample.</figcaption>
 </figure>
