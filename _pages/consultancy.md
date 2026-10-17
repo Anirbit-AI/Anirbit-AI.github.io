@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+>[This](https://github.com/Anirbit-AI/Anirbit-AI.github.io/blob/master/_data/Pitch-Deck-Anirbit.pdf) is a significantly new approach to AI which we are testing locally and internationally, with collaborators. If you are a VC or an industry, willing to sponsor scaling up this idea, then kindly get in touch rightaway! 
 
 > Applying Foundational Artificial Intelligence Research  
 > for Practical Scientific Challenges.
