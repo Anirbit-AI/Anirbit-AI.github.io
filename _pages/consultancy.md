@@ -10,8 +10,7 @@ We have the following 2 complementary programs of interfacing with industry.
 
 >(1) [This](https://github.com/Anirbit-AI/Anirbit-AI.github.io/blob/master/_data/Pitch-Deck-Anirbit.pdf) is a significantly new approach to AI which we are testing locally and internationally, with collaborators. If you are a VC or an industry, willing to sponsor scaling up this idea, then kindly get in touch rightaway! 
 
-> (2) Applying Foundational Artificial Intelligence Research  
-> for Practical Scientific Challenges.
+> (2) Applying Foundational Artificial Intelligence Research for Practical Scientific Challenges.
 
 I seek to engage with organizations seeking independent, research-informed advice on complex scientific problems which can leverage ML. Typical cases where my efforts would be best suited are - if there is a need to teach modern ML models (transformers, LLMs, neural operators and PINNs) and/or to design them specifically for solving for the time-evolution of a high-dimensional system.
 
