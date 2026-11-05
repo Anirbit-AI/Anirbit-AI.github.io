@@ -6,12 +6,11 @@ description:
 nav: true
 nav_order: 3
 ---
-
 PhD. Students
 ===============
 * [Akhilendra Sabherwal](https://www.linkedin.com/in/akhilendra-sabherwal-135488212/) (2026-)
   <br>
-  -co-advised with Prof.[Uli Sattler](https://research.manchester.ac.uk/en/persons/uli.sattler/) & Dr.[Dominik Winterer](https://wintered.github.io/)
+  - co-advised with Prof.[Uli Sattler](https://research.manchester.ac.uk/en/persons/uli.sattler/) & Dr.[Dominik Winterer](https://wintered.github.io/)
 * [Yingxiao Huo](https://scholar.google.com/citations?user=Mqjy1pAAAAAJ&hl=zh-CN) (2025 -)
   <br>
   - co-advised with Dr. [Mingfei Sun](https://research.manchester.ac.uk/en/persons/mingfei-sun)
